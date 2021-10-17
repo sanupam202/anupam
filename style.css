@@ -1,0 +1,20 @@
+#heading {
+  color: rgba(12, 11, 11, 0.966);
+  background-color: rgba(0, 0, 0, 0.151);
+  width: 260px;
+  font-style: normal;
+}
+h1 {
+  margin-left: 3cm;
+}
+li {
+  text-transform: uppercase;
+  text-decoration-style: double;
+}
+div {
+  font-family: monospace;
+}
+
+body {
+  background: rgb(190, 233, 233);
+}
